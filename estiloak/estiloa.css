@@ -1,0 +1,83 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background: #75726a;
+}
+
+h1{
+	color: #1d1c1b;
+	text-align: center;
+}
+
+h2{
+	color: #fff;
+	text-align: center;
+}
+
+.form-register{
+	width: 95%;
+	max-width: 500px;
+	margin: auto;
+	background: white;
+	border-radius: 7px;
+}
+
+.form-titulua{
+	background: #1d1c1b;
+	color: ;
+	padding: 20px;
+	text-align: center;
+	font-weight: center;
+	font-size: 30px;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+	border-bottom: 5px solid crimson;
+}
+
+.input_kutxa{
+	padding: 10px 30px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+input{
+	margin-bottom: 15px;
+	padding: 15px;
+	font-size: 16px;
+	border-radius: 3px;
+	border: 1px solid darkgrey;
+
+}
+
+.input-48{
+	width: 48%;
+}
+
+.input-100{
+	width: 100%;
+}
+
+.btn-bidali{
+	background: crimson;
+	color: #fff;
+	margin-left: 35%;	
+	padding: 10px 40px;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.btn-bidali:active{
+	transform: scale(1.05);
+}
+
+.form_link{
+	width: 100%;
+	margin: 0;
+	text-align: center;
+	font-size: 14px;
+}
+

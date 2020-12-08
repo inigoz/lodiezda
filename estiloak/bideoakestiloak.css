@@ -1,0 +1,404 @@
+
+body{
+	padding: 0px; margin: 0px;
+	background-color:  #60605C;
+}
+	
+	#orria{
+		margin: 0 auto;
+		width: 1200px;
+		height: 1700px;
+		margin-top: 50px;
+		background-color: #6A5947;		
+	}
+header{
+	width: 1200px;
+	height: 300px;
+	}
+
+	#nerelogoa3 img{
+		float: left;
+		width: 300px;	
+	}
+header img{	
+	width: 900px;
+	height: 300px;
+	float: right;
+	}
+
+nav{
+	background-color: #000000;
+	width:1200px;
+	height:95px; 
+	text-align: center;	
+	}
+	
+	#nabigatzailea ul{
+	list-style-type: none;
+	
+	}
+	#nabigatzailea li{
+	display: inline;
+	text-align: center;
+
+
+	}
+	#nabigatzailea li a{
+	padding:  6px 30px;
+   	color: #ffffff;
+   	background-color: #000000 ;
+    border: 2px solid #ffffff;
+	text-decoration: none;
+	border-radius: 10px;
+	font-size: 20px;
+
+	}	
+	#nabigatzailea li a:hover{
+	background-color: #ffffff;
+   	color:  #000000;
+	}
+
+aside{
+	float: left;
+	margin-left: 5px;
+	width: 200px;
+	height: 1100px;
+
+}   
+	#izenburua{
+	text-align: center;
+	}
+	#menubertikala h1{
+	font-size: 25px;
+	}
+	#menubertikala {
+	height: 100%;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid black 2px;
+	border-radius: 3px;
+	box-shadow: 2px 4px color white;
+	background-color:#665B50;
+
+	}
+	#menubertikala ul{
+	font-style: italic;
+	margin-left: 10px;
+	}
+	#menubertikala li{
+
+	}
+	#menubertikala li a{
+	text-decoration: none;
+	color: white;
+	}
+section{
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	width: 690px;
+	height: 1250px;
+	}
+	#bideo1{
+	width: 680px;
+	height: 150px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+	background-color:#665B50;
+	}
+	#bideo1 video{
+	float: left;
+	width: 200px;
+	margin-left: 10px;
+	margin-top: 20px;
+		
+	}
+	#bideo1 p{
+	float: right;
+	margin-left: 240px;
+	margin-top: -100px;
+	} 
+	
+	#bideo2{
+	width: 680px;
+	height: 150px;	
+	margin-top: 180px;
+	margin-left: 5px;
+	background-color:#665B50;
+	}
+	#bideo2 video{
+	float: left;
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 10px;
+	}
+	#bideo2 p{
+	float: right;
+	margin-left: 240px;
+	margin-top: -100px;
+	} 
+
+	#bideo3{
+	width: 680px;
+	height: 150px;	
+	margin-top: 20px;
+	margin-left: 5px;
+	background-color:#665B50;
+	}
+	#bideo3 video{
+	float: left;
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 10px;
+	}
+	#bideo3 p{
+	float: right;
+	margin-left: 240px;
+	margin-top: -100px;
+	} 
+	#bideo4{
+	width: 680px;
+	height: 150px;	
+	margin-top: 20px;
+	margin-left: 5px;
+	background-color:#665B50;
+	}
+	#bideo4 video{
+	float: left;
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 10px;
+	}
+	#bideo4 p{
+	float: left;
+	margin-top: 20px;
+	margin-left: 30px;
+	}
+	#bideo5{
+	width: 680px;
+	height: 150px;	
+	margin-top: 20px;
+	margin-left: 5px;
+	background-color:#665B50;
+	
+	}
+	#bideo5 video{
+	float: left;
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 10px;
+	}
+	#bideo5 p{
+	float: right;
+	margin-left: 240px;
+	margin-top: -100px;
+	}
+	#bideo6{
+	width: 680px;
+	height: 150px;	
+	margin-top: 20px;
+	margin-left: 5px;
+	background-color:#665B50;
+	
+	}
+	#bideo6 video{
+	float: left;
+	margin-top: 20px;
+	width: 200px;
+	margin-left: 10px;
+	}
+	#bideo6 p{
+	float:left;
+	margin-left: 20px;
+	margin-left: 30px;
+
+	}	
+	#bideo7{
+	width: 680px;
+	height: 150px;	
+	margin-top: 20px;
+	margin-left: 5px;
+	background-color:#665B50;
+	
+	}
+	#bideo7 video{
+		float: left;
+		margin-top: 20px;
+		width: 200px;
+		margin-left: 10px;
+	}
+	#bideo7 p{
+	float: right;
+	margin-left: 240px;
+	margin-top: -112px;
+	}
+	aside#eskuin{
+	float: right;
+	margin-right: 20px;
+	margin-top: 40px;
+	width: 200px;
+
+	}
+	#menubertikala2 {
+	float: right;
+	margin-right: 0px;
+	margin-top: 0px;
+	width: 200px;	
+	border: solid black 2px;
+	border-radius: 5px;
+	background-color:#665B50;
+	} 
+	#materialak {
+	font-size: 25px;
+	text-align: center
+	}
+	#menubertikala2 ul{
+	font-style: italic;
+	margin-left: 10px;
+	}
+	#menubertikala2 li{
+	}
+	#menubertikala2 li a{
+	text-decoration: none;
+	color: white;
+	}
+	#menubertikala3{
+	float: right;
+	margin-right: 0px;
+	margin-top: 50px;
+	width: 200px;	
+	border: solid black 2px;
+	border-radius: 5px;
+	background-color:#665B50;
+	}
+	#kits {
+	font-size: 25px;
+	text-align: center
+	}
+	#menubertikala3 ul{
+	font-style: italic;
+	margin-left: 10px;
+	}
+	#menubertikala3 li{
+	}
+	#menubertikala3 li a{
+	text-decoration: none;
+	color: white;
+	}
+	#menubertikala4{
+	float: right;
+	margin-right: 0px;
+	margin-top: 50px;
+	width: 200px;	
+	border: solid black 2px;
+	border-radius: 5px;
+	background-color:#665B50;
+	} 
+	#kits2 {
+	font-size: 25px;
+	text-align: center
+	}
+	#menubertikala4 ul{
+	font-style: italic;
+	margin-left: 10px;
+	}
+	#menubertikala4 li{
+	}
+	#menubertikala4 li a{
+	text-decoration: none;
+	color: white;
+	}
+	#menubertikala5{
+	float: right;
+	margin-right: 0px;
+	margin-top: 50px;
+	width: 200px;	
+	border: solid black 2px;
+	border-radius: 5px;
+	background-color:#665B50;
+	} 
+	#fitness {
+	font-size: 25px;
+	text-align: center
+	}
+	#menubertikala5 ul{
+	font-style: italic;
+	margin-left: 10px;
+	}
+	#menubertikala5 li{
+	}
+	#menubertikala5 li a{
+	text-decoration: none;
+	color: white;
+	}
+footer{
+	align-self: flex-end;
+	width: 1200px;
+	height: 100px;
+	background-color: #ffffff; 
+	margin-top: 1300px;	
+}
+	#ikonoak1{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;
+		
+	}
+	#ikonoak2{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;		
+	}
+	#ikonoak3{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;
+	}
+	#ikonoak4{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;
+		
+	}
+	#ikonoak5{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;
+	}
+	#ikonoak6{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;
+	}
+	#ikonoak7{
+		float: right;
+		font-size: 40px;
+		margin-top: 10px;
+		margin-right: 10px;
+		color: black;
+	}
+	#fondo{
+		width: 400px;
+		float: left;
+		
+		
+	}
+	#fondo h6{
+		margin-top: 20px;
+		margin-left: 20px;
+		font-size: 15px;
+	}
+

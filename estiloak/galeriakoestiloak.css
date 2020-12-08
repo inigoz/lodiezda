@@ -1,0 +1,158 @@
+*{
+	padding: 0px;
+	margin: 0px;	
+}
+body{
+	background-image: url("21.jpg");	
+
+}
+#orria2{
+		margin: 0 auto;
+		width: 1280px;
+		height: 2000px;
+		margin-top: 50px;
+		}
+
+header{
+	background-color: white;
+	border-style:  solid;
+	border-radius: 10px;	
+	width: 1280px;
+	height: 100px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	box-shadow: 5px 5px 7px #A9A9A9;
+}
+header img{
+	margin-left: 40px;
+	margin-top: 10px;
+}
+	#izenburua {
+		font-size: 70px;
+		float:right;
+		margin-right: 300px;
+		margin-top: 10px;	
+		font-family: "textua"	
+		}
+		@font-face{font-family: "textua"; 
+					src: url("Impact Label.ttf");
+		}
+
+nav{
+	background-color: black;
+	border-style: solid;
+	border-radius: 10px;
+	padding-bottom: 30px;
+	width: 1280px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	box-shadow: 5px 5px 7px #A9A9A9;
+}
+	#nabigatzailea ul{
+	list-style-type: none;
+
+	
+	}
+	#nabigatzailea li{
+	display: inline;
+	margin-left: 70px;
+	margin-top: 20px;
+
+
+	}
+	#nabigatzailea li a{
+	padding:  6px 20px;
+   	color: #ffffff;
+   	background-color: #000000 ;
+    border: 2px solid #ffffff;
+	text-decoration: none;
+	border-radius: 10px;
+	font-size: 30px;
+
+	}	
+	#nabigatzailea li a:hover{
+	background-color: #ffffff;
+   	color:  #000000;
+	}
+
+section{
+	background-color: white;
+	border-style: solid;
+	border-radius: 10px;
+	width: 1280px;
+	height: 1700px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	box-shadow: 5px 5px 7px #A9A9A9;
+}
+section img{
+	margin-left: 45px;
+	margin-top:30px;
+	width: 250px;
+	height: 300px;
+	border: 3px solid black; 
+}
+footer{
+	background-color: white;
+	border-style: solid;
+	border-radius: 10px;
+	width: 1280px;
+	height: 100px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	box-shadow: 5px 5px 7px #A9A9A9;
+}	
+footer img{
+	width: 800px;
+	height: 100%;
+	float: right;
+}
+#eskubideak{
+	width: 400px;
+	float: left;
+}
+#eskubideak h6{
+		margin-top: 20px;
+		margin-left: 50px;
+		font-size: 15px;
+	}
+#face{
+		float: left;
+		font-size: 40px;
+		margin-top: 20px;
+		margin-left: 40px;
+		color: black;}
+#insta{
+		float: left;
+		font-size: 40px;
+		margin-top: 20px;
+		margin-left: 10px;
+		color: black;}
+#wts{
+		float: left;
+		font-size: 40px;
+		margin-top: 20px;
+		margin-left: 10px;
+		color: black;}
+#tele{
+		float: left;
+		font-size: 40px;
+		margin-top: 20px;
+		margin-left: 10px;
+		color: black;}
+#twt{
+		float: left;
+		font-size: 40px;
+		margin-top: 20px;
+		margin-left: 10px;
+		color: black;}
+#you{
+		float: left;
+		font-size: 40px;
+		margin-top: 20px;
+		margin-left: 10px;
+		color: black;}
